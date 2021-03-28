@@ -1,0 +1,1 @@
+﻿powershell -ExecutionPolicy bypass -File //10.40.1.5/Apps/script.ps1
